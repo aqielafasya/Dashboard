@@ -11,7 +11,9 @@ This project is a part of the **'Intro to Data Analytics'** mini course organize
 ![image](https://github.com/user-attachments/assets/e3aa50ba-5f1a-485f-875b-07e7d252d67a)
 
 ## Key Insight
-   1. **2021** is the year with the most movie shows, with 960 movies.
-   2. **Mark Knight** is the director with the most movies, which is 31 movies.
-   3. The genre of movies most often shown by Amazon Prime is **'Drama'**.
-   4. **13+** is the highest rating category of all movies shown by Amazon Prime.
+   1. **The average length of movies** served by Amazon Prime is **96 minutes**.
+   2. **Total movies** shown by Amazon Prime are **6582 movies**.
+   3. **2021** is the year with the most movie shows, with **960 movies**.
+   4. **Mark Knight** is the director with the most movies, which is **31 movies**.
+   5. The genre of movies most often shown by Amazon Prime is **'Drama'**.
+   6. **13+** is the highest rating category of all movies shown by Amazon Prime.
